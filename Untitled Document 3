@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>This is document title</title>
+</head>
+<body>
+<center>
+<h1>this is a heading</h1>
+</center>
+<marquee><h2>this is a heading</h2></marquee>
+<h3>this is a heading</h3>
+<hr/>
+<pre>
+<p>
+<h4>this is a heading</h4>
+<h5>this is a heading</h5>
+<h6>this is a heading</h6>
+</p>
+<p>here is<br/> first para</p>
+<p>here is second para</p>
+<p>here is third para</p>
+</pre>
+</body>
+</html>
