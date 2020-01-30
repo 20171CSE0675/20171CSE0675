@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>This is document title</title>
+</head>
+
+
+
+<center>
+<h1><span style="color:blue">SPORTS</h1>
+</center>
+<marquee><h2>this is a heading</h2></marquee>
+<b><h3>this is a heading</h3></b>
+<hr/>
+<pre>
+<p>
+<em>
+<h4>this is a heading</h4>
+<h5>this is a heading rthh</h5>
+<h6>this is a heading</h6>
+</em>
+</p>
+                                                                                              
+<p>here is<br/> first para</p>
+<div id ="menu" align="middle">
+<h2><a href="https://www.ksca.cricket/"><span style="color:green">click</a></h2>
+</div>
+
+<p>here is second para</p>
+<u><p>here is third para</p></u>
+
+
+<p align ="center">SPORTS </p>
+<UL>
+<LI><a href="https://www.icc-cricket.com/"><span style="color:green">CRICKET</a></LI>
+<LI>football</LI>
+<LI>rugby</LI>
+</UL>
+<OL>
+<LI>SQ1<LI>
+<LI>SQ2<LI>
+</OL>
+<p align ="right">this is right align</p>
+<p align ="left"> this is left align</p>
+<h2 title="sourav!">Title heading tag example</h2>
+<sup>
+<h3> Title heading tag example.....this is left align???this is right align</h3>
+</sup>
+
+
+
+</pre>
+</body>
+</html>
