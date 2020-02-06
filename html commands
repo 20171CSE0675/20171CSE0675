@@ -3,8 +3,6 @@
 <title>This is document title</title>
 </head>
 
-
-
 <center>
 <h1><span style="color:blue">SPORTS</h1>
 </center>
@@ -19,7 +17,7 @@
 <h6>this is a heading</h6>
 </em>
 </p>
-                                                                                              
+  <a name="cricket"></a>                                                                                            
 <p>here is<br/> first para</p>
 <div id ="menu" align="middle">
 <h2><a href="https://www.ksca.cricket/"><span style="color:green">click</a></h2>
@@ -46,8 +44,128 @@
 <h3> Title heading tag example.....this is left align???this is right align</h3>
 </sup>
 
-
-
 </pre>
 </body>
 </html>
+
+<ol type="i">
+<li>list item..</li>
+<li>list item..</li>
+</ol>
+<p> text..</p>
+<ol type="i" start="3">
+<li>list item..</li>
+</ol>
+
+<dl>
+<dt>html</dt>
+<dd>hyper text markup language</dd>
+<dt>dog</dt>
+<dd>a human's best friend!</dd>
+</dl>
+
+
+<ul type ="square">
+<li>list item...</li>
+<li>list item..
+<ol type="i" START="3">
+<li>list item...</li>
+<li>list item...</li>
+<li>list item...</li>
+<li>list item...</li>
+</ol>
+</li>
+<li>list item...</li>
+</ul>
+<a href="#cricket">go up</a>
+<table border="5" cellspacing="10px" cellpadding="10px"> <caption align="bottom"> label my table</caption>
+<tr>
+<th>column 1 head</th>
+<th>column 2 head</th>
+<th>column 3 head</th>
+</tr>
+<tr>
+<td>row1,col1</td>
+<td>row1,col2</td>
+<td>row1,col3</td>
+</tr>
+<tr>
+<td>row2,col1</td>
+<td>row2,col2</td>
+<td>row2,col3</td>
+<tr>
+<td>row2,col1</td>
+<td>row2,col2</td>
+<td>row2,col3</td>
+</tr>
+</table>
+
+<marquee direction="up">
+<img src="/home/Sem6B10/Downloads/index.png" border="5"/>
+</marquee>
+
+<table border="1" bgcolor="green">
+<tr>
+<th>col1</th>
+<th>col2</th>
+<th>col3</th>
+<th>col4</th>
+</tr>
+<tr>
+<td rowspan="2">row 1 cell 1</td>
+<td>row1cell2</td>
+<td>row1 cell3</td>
+<td rowspan="3">row 1 cell4</td>
+</tr>
+<tr>
+<td>row 2 cell2</td>
+<td>row 2 cell3</td>
+</tr>
+<tr>
+<td colspan="3">row3cell</td>
+</tr>
+<a href="rk@gmail.com"><font size="6">send mail</font size></a>
+
+<marquee><font size="9">hello!</font size></marquee>
+
+
+<body>
+<tagname style="property:value;">
+<body style ="background-color:powderblue;">
+<h1 style="color:blue;">this is heading</h1>
+<p style="color:red;">this is para..para</p>
+<h1 style="font-family:verdana;">this is heading</h1>
+<p style="font-family:courier;">this para</p>
+<h1 style="font-size:300%;">four</h1>
+<p style="font-size:300%;">four</p>
+
+<h1 style="text-align:center;">CRICKET ASSOCIATIONS</h1>
+<h1 style="background-color:#33fff6;">CRICKET ASSOCIATIONS</h1>
+
+
+<a href="https://www.ksca.cricket/">
+
+<img src="/home/Sem6B10/Downloads/0.jpg"
+
+style="width:100px;height:100px"><h4 style="background-color:#33fff6;">KSCA</h4>
+
+</a>
+<a href="https://www.ddca.in/">
+<img src="/home/Sem6B10/Downloads/12.jpeg"
+
+style="width:100px;height:100px"><h4 style="background-color:#33fff6;">DDCA</h4>
+
+</a>
+
+<p><img src="/home/Sem6B10/Downloads/giphy.gif " style="float:right;width:50px;height:50px;"></p>
+
+
+
+
+
+
+
+
+
+
+
