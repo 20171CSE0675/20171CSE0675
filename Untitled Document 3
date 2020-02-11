@@ -1,23 +1,59 @@
 <html>
 <head>
-<title>This is document title</title>
-</head>
-<body>
-<center>
-<h1>this is a heading</h1>
-</center>
-<marquee><h2>this is a heading</h2></marquee>
-<h3>this is a heading</h3>
+<title>RESUME</title>
+<body bgcolor="#22fbee">
+ 
+<p align="right"><img src= style="width:50px;height:50px;"></p>
+<h3>Sourav Swain</h3>
+<a href="https://mail.google.com/mail/u/0/?tab=wm&ogbl#inbox"><font size="2">sssourav045@gmail.com</font size></a>
+<h5><u>+91 8976554239</u></h5>
 <hr/>
-<pre>
-<p>
-<h4>this is a heading</h4>
-<h5>this is a heading</h5>
-<h6>this is a heading</h6>
-</p>
-<p>here is<br/> first para</p>
-<p>here is second para</p>
-<p>here is third para</p>
-</pre>
+
+<h3 style="background-color: #22fb71;">CV Highlights</h3>
+<h5><ul>
+<li>Positive employee attitudes toward their work and the company.</li>
+<li>Increased productivity and intrinsic motivation</li>
+<li>Enhanced organizational effectiveness and competitive advantage</li>
+</ul></h5>
+<hr/>
+<h3 style="background-color: #22fb71;">professional experience</h3>
+<h5><ul>
+<li>Positive employee attitudes toward their work and the company.</li>
+<li>Increased productivity and intrinsic motivation</li>
+<li>Enhanced organizational effectiveness and competitive advantage</li>
+</ul></h5>
+<h3 style="background-color: #22fb71;">Qualification</h3>
+<table border="1">
+<tr>
+<th>Name of board</th>
+<th>percentage</th>
+<th>year</th>
+</tr>
+<tr>
+<td>cbse</td>
+<td>70%</td>
+<td>2015</td>
+</tr>
+<tr>
+<td>icse</td>
+<td>70%</td>
+<td>2017</td>
+</tr>
+<tr>
+<td>btech</td>
+<td>70%</td>
+<td>2021</td>
+</tr>
+<hr/>
+
+
+
+
+
 </body>
 </html>
+
+
+
+
+
