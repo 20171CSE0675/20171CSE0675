@@ -1,13 +1,23 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="p2.css">
+
 </head>
 <body>
-<h1>head</h1>
-<h1>heading1</h1>
-<h1>heading2</h1>
-<p>paragraph....</p>
 
+<h1>SPACE</h1>
 
+<h3>Space is completely silent</h3>
+
+<p>Space is the boundless three-dimensional extent in which objects and events have relative position and direction</p>
+<p class="large">
+this text will be rendered in italic style</p>
+<p class="small">
+This text is rendered in either georgia,garamond,or the default serif font
+</p>
+<p style="font-size:20px;">
+<img src="/home/Sem6B10/Downloads/r.jpg">
+
+</body>
 </head>
 </html>
