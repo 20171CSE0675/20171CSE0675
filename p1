@@ -17,6 +17,10 @@ This text is rendered in either georgia,garamond,or the default serif font
 </p>
 <p style="font-size:20px;">
 <img src="/home/Sem6B10/Downloads/r.jpg">
+<p id="id1">tour data</p>
+<h1 id="id1">your data</h1>
+<p class="mycolour">your data<p>
+<img src="/home/Sem6B10/Downloads/r.jpg">
 
 </body>
 </head>
