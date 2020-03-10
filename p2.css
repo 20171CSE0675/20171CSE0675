@@ -1,6 +1,6 @@
 body
 {
-background-image:url("/home/Sem6B10/Downloads/p.jpg");
+background-image:url("/home/Sem6B10/Downloads/pp.jpg");
 background-repeat:repeat;
 background-attachment:fixed;
 
@@ -22,6 +22,7 @@ text-decoration:underline
 }
 p
 {
+
 color: #fbc322;
 margin-left:100px;
 font-size:20px;
@@ -29,17 +30,124 @@ font-size:20px;
 text-transform:uppercase;
 text-shadow:10px 10px 10px blue;
 }
+
 p
 {
-color:#fbc322;
-font-weight:bold;
-opacity:0.9;
+width:300px
+margin:auto;
+border:2px;
+padding:5px;
+border-top-style:dotted;
+border-right:5px solid green;
 }
 img:hover
 {
-border:7px solid #ff0000 ;
+border-left:7px solid green ;
+background-color:red;
 width:500px
 height:100px
-opacity:0.9;
+margin:25px 50px 75px 100px;
+
 }
+#id1{
+property:value;
+}
+.mycolour{
+property:value;
+}
+
+div
+img{
+width:300px;
+margin:auto;
+border:1px solid red;
+border-style:solid;
+border-width:medium;
+}
+
+span.a{
+display:inline;
+width:100px;
+height:100px;
+padding:5px;
+border:1px solid blue;
+background-color:yellow;
+}
+span.b
+{
+display:inline-block;
+width:100px;
+height:100px;
+padding:5px;
+border:1px solid blue;
+background-color:yellow;
+}
+
+
+span.c{
+display:block;
+width:100px;
+height:100px;
+padding:5px;
+border:1px solid red;
+background-color:yellow;
+}
+a.a:hover{
+color: green;
+display:inline;
+text-decoration:underline;
+}
+
+a.b:active{
+color: green;
+display:inline;
+}
+
+a.c:visited{
+color: green;
+display:inline;
+border:1px solid red;
+}
+
+a.d:link{
+color: yellow;
+display:inline;
+border:1px solid red;
+background-color:green;
+
+}
+a.d{
+target:new front;
+}
+
+p::first-line
+{
+color:green;
+}
+
+p::first-letter{
+color:red;
+font-size:xx-large;
+}
+
+h1::selection
+{
+color:red;
+background:blue;
+}
+
+#grad
+{
+height:200px;
+background-color:red;
+background-image:liner-gradient(red,yellow);
+}
+
+
+
+
+
+
+
+
 

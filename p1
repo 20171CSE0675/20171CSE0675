@@ -15,12 +15,27 @@ this text will be rendered in italic style</p>
 <p class="small">
 This text is rendered in either georgia,garamond,or the default serif font
 </p>
-<p style="font-size:20px;">
+<p 
+
+style="font-size:20px;">
 <img src="/home/Sem6B10/Downloads/r.jpg">
 <p id="id1">tour data</p>
 <h1 id="id1">your data</h1>
 <p class="mycolour">your data<p>
 <img src="/home/Sem6B10/Downloads/r.jpg">
+
+
+<p>Debates concerning the nature,<span class="a"> essence </span>and the mode of existence of space date back to antiquity; namely, to treatises like the <span class="b">Timaeus of Plato,</span> or Socrates in his reflections on what the Greeks called khôra e was any matter in the space.[3] Other natural philosophers, notably Gottfried Leibniz, thought instead that<span class="c"> space was </span>in fact a collection of relations between objects, given by their distance and direction from one another. already given systematic framework that humans possess and use to structure all experiences. </p>
+</p>
+<a class="a">click</a> <a class="b"href="https://www.wikipedia.org/">click</a> <a class="c" href="https://github.com/">click</a> <a class="d" href="https://github.com/">click</a> 
+
+<ul type="square">
+<li>ram</li>
+<li>ramesh</li>
+<li>pulkit</li>
+</ul>
+<br/>
+<div id="grad">possess and use to structure all experiences.</div>
 
 </body>
 </head>
